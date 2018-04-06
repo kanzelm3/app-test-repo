@@ -1,0 +1,22 @@
+{
+  "name": "app-test-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "artifact": "deployst",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanzelm3/app-test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanzelm3/app-test-repo/issues"
+  },
+  "homepage": "https://github.com/kanzelm3/app-test-repo#readme",
+  "description": ""
+}
